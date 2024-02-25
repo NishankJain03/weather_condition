@@ -1,0 +1,26 @@
+{
+  "name": "nish-weather_condition",
+  "version": "1.0.0",
+  "description": "An npm packages to check weather condition till 15 days",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishankJain03/weather_condition.git"
+  },
+  "keywords": [
+    "weather",
+    "condition"
+  ],
+  "author": "Nishank Jain",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NishankJain03/weather_condition/issues"
+  },
+  "homepage": "https://github.com/NishankJain03/weather_condition#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
